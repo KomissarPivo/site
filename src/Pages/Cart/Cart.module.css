@@ -1,0 +1,65 @@
+.cart {
+    box-shadow: 1px 1px 10px 1px black;
+    width: 500px;
+    margin-left: 1200px;
+    border-radius: 10px;
+}
+
+.cartItem {
+    margin-right: 20px;
+    margin-bottom: 10px;
+    color: white;
+    margin-left: 20px;
+    background-color: #C1391E;
+}
+
+.h2 {
+    color: #C1391E;
+}
+
+.p {
+    color: #C1391E;
+    font-size: x-large;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.btn {
+    color: #C1391E;
+    font-size: x-large;
+    font-weight: 400;
+    border-radius: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 250px;
+    height: 50px;
+    cursor: pointer;
+    transition: transform 350ms ease;
+}
+
+.btn:hover{
+    transform: scale(1.1);
+    
+}
+
+.mbtn{
+    color: #C1391E;
+    width: 70px;
+    height: 30px;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: transform 350ms ease;
+}
+
+.mbtn:hover{
+    transform: scale(1.1);
+    
+}
+
+.inp{
+    width: 55px;
+    height: 50px;
+    margin-left: 10px;
+    font-size: x-large;
+    font-weight: 400;
+}

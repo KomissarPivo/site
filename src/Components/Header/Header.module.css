@@ -1,0 +1,54 @@
+.d {
+    position: relative;
+    min-height: 100%;
+}
+
+
+.logo {
+    width: 157.43px;
+    margin-left: 101px;
+    margin-top: px;
+}
+
+.nav {
+    float: right;
+    margin-right: 50px;
+    margin-top: 52.55px;
+}
+
+.li {
+    margin-left: 43px;
+    display: inline;
+
+}
+
+.a {
+    color: #C1391E;
+    font-size: 32px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.ab{
+    color: #C1391E;
+    font-size: 32px;
+    list-style: none;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.abb{
+    background: none;
+        color: #C1391E;
+        font-size: 32px;
+        list-style: none;
+        text-decoration: none;
+        cursor: pointer;
+        border-radius: 20px;
+        border: none;
+}
+
+.li:hover {
+    opacity: 0.5;
+}
